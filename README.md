@@ -101,6 +101,7 @@ A collection of tools and resources for working with PDF files.
 | [PDF Arranger](https://github.com/pdfarranger/pdfarranger) | Arrange, crop and combine PDF pages. |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Self-hosted PDF processing tools. |
 | [Okular](https://okular.kde.org/) | Desktop document viewer with annotations. |
+| [Glim](https://github.com/NeoPanic/Glim) | Free, MIT-licensed macOS file viewer with read-only PDF previews and full-screen PDF presentation mode. |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Lightweight PDF reader for Windows. |
 | [PDF24 Creator](https://tools.pdf24.org/en/creator) | Offline PDF tools for Windows. |
 | [PDFgear](https://www.pdfgear.com/) | Desktop and mobile PDF editing software. |
